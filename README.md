@@ -1,6 +1,6 @@
 # The Authenticity Dividend
 
-Simulation codebase for the research paper **"The Authenticity Dividend: Algorithmic Fraud-Resilience and Revenue Optimization in the Post-Streaming Era"**.
+Simulation for the research paper **"The Authenticity Dividend: Algorithmic Fraud-Resilience and Revenue Optimization in the Post-Streaming Era"**.
 
 This model introduces an intent-weighted ("Entanglement") payout algorithm that:
 - Isolates bot/smart-bot fraud mathematically
