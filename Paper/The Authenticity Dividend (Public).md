@@ -145,7 +145,7 @@ The **Noise/Fraud** category suffers a catastrophic collapse in revenue, validat
 * **Observation:** Noise "artists" saw their revenue collapse from **$5.01M (Pro-Rata)** to **$1.43M (Entanglement)**, a drop of **-71.5%**.
 * **The Firewall Effect:** Despite "Smart Bots" mimicking human Search behavior (Perfect Alpha), the firewall held. A bot account paying $10 can only ever extract ~$7 (net). It cannot dilute the global pool of the 800,000+ legitimate users who do not listen to Noise. The algorithm proved that *Behavior* cannot fake *Entanglement*.
 
-![Bot Kill Chart](results/bot_kill_chart.png)
+![Bot Kill Chart](https://github.com/DABS-Dynamics/The-Authenticity-Dividend/blob/beabb3edac7c086abe23b3371449e486fa082932/results/bot_kill_chart.png)
 
 ### **5.3 PROOF OF WORK: The Long Tail of Intent**
 
@@ -153,7 +153,7 @@ The core mechanism enabling this redistribution is the **Active Coefficient ($\a
 
 The Entanglement Algorithm exposes this disparity. As shown in the "Work Curve" below, the vast majority of "High Value" streams come from Niche listeners (Green), while Bots (Red) are mathematically segregated into a low-value tier. This visualizes why Niche artists see such massive gains: their fans are simply "working harder" for the payout.
 
-![Alpha Distribution](results/alpha_distribution.png)
+![Alpha Distribution](https://github.com/DABS-Dynamics/The-Authenticity-Dividend/blob/beabb3edac7c086abe23b3371449e486fa082932/results/alpha_distribution.png)
 
 ### **5.4 The Superstar Equilibrium**
 
@@ -162,7 +162,7 @@ The Entanglement Algorithm exposes this disparity. As shown in the "Work Curve" 
 * **Observation:** Star artists saw a revenue increase of **+178.8%**.
 * **Mechanism:** Stars benefit massively from the purification of the economy. In the Pro-Rata control group, the "Smart Bots" were draining the majority of the Star's potential revenue. By strictly isolating these bots, the per-stream value for legitimate casual listeners skyrocketed, benefiting Stars just as much as Niche artists. They are no longer subsidized by Bots, but they are also no longer *robbed* by Bots.
 
-![Payout Comparison](results/payout_comparison.png)
+![Payout Comparison](https://github.com/DABS-Dynamics/The-Authenticity-Dividend/blob/beabb3edac7c086abe23b3371449e486fa082932/results/payout_comparison.png)
 
 ### **5.5 Summary of Economic Shifts**
 
@@ -179,7 +179,7 @@ To address the critique that sophisticated actors could "game" the Active Coeffi
 
 **Result:** The attack failed. The Entanglement model acts as a financial firewall. Fraud is strictly limited to self-consumption, rendering it unprofitable ($\text{Cost} > \text{Revenue}$).
 
-![Stress Test Chart](The_Authenticity_Dividend_Project/results/stress_test_chart.png)
+![Stress Test Chart](https://github.com/DABS-Dynamics/The-Authenticity-Dividend/blob/beabb3edac7c086abe23b3371449e486fa082932/results/stress_test_chart.png)
 
 **The Anti-Fragility of Entanglement:**
 Crucially, the model demonstrates "anti-fragile" properties under adversarial stress. In simulations involving "Smart Bots" (agents programmed to mimic high-intent search behavior), legitimate artist revenue increased from **+77.7%** (Steady State) to **+181.3%** (Adversarial State). This counter-intuitive result occurs because sophisticated bots must generate high stream volumes to mimic engagement; in a User-Centric entanglement model, this merely traps more of the bot operator's capital in their own closed loop, effectively subsidizing the legitimate ecosystem. The more aggressive the fraud, the higher the dividend for authentic creators.
