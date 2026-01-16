@@ -20,8 +20,3 @@ This model introduces an intent-weighted ("Entanglement") payout algorithm that:
 - `simulation.py` — Core Entanglement Algorithm
 - `main.py` — Entry point
 - `requirements.txt` — Dependencies
-
-## How to Run
-```bash
-pip install -r requirements.txt
-python main.py
