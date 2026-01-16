@@ -13,9 +13,9 @@ This model introduces an intent-weighted ("Entanglement") payout algorithm that:
 - Star artists: +71.4% → +178.8%
 - Total revenue conserved ($700k pool)
 
-COMING SOON.............
 
-## Project Structure
+## COMING SOON.............
+ Project Structure
 - `config.py` — Simulation hyperparameters
 - `simulation.py` — Core Entanglement Algorithm
 - `main.py` — Entry point
